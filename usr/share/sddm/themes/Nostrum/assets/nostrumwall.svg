@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2560"
+   height="1440"
+   viewBox="0 0 2560 1440.0001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="nostrumwall.svg"
+   inkscape:export-filename="nostrumwall.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d1d1d1"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#818181"
+     inkscape:document-units="px"
+     inkscape:zoom="0.16309399"
+     inkscape:cx="3001.3368"
+     inkscape:cy="1180.301"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1.0000001"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#060625;stroke-width:2.01629;stroke-linecap:round;fill-opacity:1"
+       id="rect1"
+       width="2560"
+       height="1440"
+       x="0"
+       y="-4.2632564e-14" />
+    <ellipse
+       style="fill:#120932;fill-opacity:1;stroke-width:3.59123;stroke-linecap:round"
+       id="path1"
+       cx="1303.3198"
+       cy="844.72559"
+       rx="1204.9967"
+       ry="1177.1508" />
+    <ellipse
+       style="fill:#301447;fill-opacity:1;stroke-width:2.96055;stroke-linecap:round"
+       id="ellipse1"
+       cx="1292.8755"
+       cy="815.77905"
+       rx="1019.8581"
+       ry="945.22443" />
+    <ellipse
+       style="opacity:0.8;fill:#6e3059;fill-opacity:1;stroke-width:2.30927;stroke-linecap:round"
+       id="ellipse3"
+       cx="1368.6564"
+       cy="704.35022"
+       rx="808.52551"
+       ry="725.41931" />
+    <ellipse
+       style="opacity:1;fill:#602c5f;fill-opacity:1;stroke-width:2.14156;stroke-linecap:round"
+       id="circle10"
+       cx="1197.5597"
+       cy="727.73175"
+       rx="718.047"
+       ry="702.48456" />
+    <ellipse
+       style="opacity:0.9;fill:#8a2f58;fill-opacity:1;stroke-width:1.99074;stroke-linecap:round"
+       id="ellipse4"
+       cx="1276.3405"
+       cy="771.15631"
+       rx="667.04004"
+       ry="653.42438" />
+    <ellipse
+       style="fill:#902846;fill-opacity:1;stroke-width:1.67635;stroke-linecap:round"
+       id="ellipse5"
+       cx="1285.0997"
+       cy="731.51996"
+       rx="572.35168"
+       ry="539.99445" />
+    <circle
+       style="fill:#a4283e;fill-opacity:1;stroke-width:1.28532;stroke-linecap:round"
+       id="ellipse6"
+       cx="1185.1396"
+       cy="668.50726"
+       r="426.25717" />
+    <circle
+       style="fill:#b1283f;fill-opacity:1;stroke-width:0.927046;stroke-linecap:round"
+       id="ellipse7"
+       cx="1215.3735"
+       cy="719.07526"
+       r="307.43939" />
+    <circle
+       style="fill:#db2739;fill-opacity:1;stroke-width:0.696289;stroke-linecap:round"
+       id="ellipse8"
+       cx="1253.6726"
+       cy="688.07355"
+       r="230.91472" />
+    <circle
+       style="fill:#ec2a2a;fill-opacity:1;stroke-width:0.510297;stroke-linecap:round"
+       id="ellipse9"
+       cx="1235.674"
+       cy="721.02112"
+       r="169.23314" />
+    <circle
+       style="fill:#feaa06;fill-opacity:1;stroke-width:0.318897;stroke-linecap:round"
+       id="ellipse10"
+       cx="1281.0468"
+       cy="715.98138"
+       r="105.75784" />
+  </g>
+</svg>
