@@ -1,4 +1,5 @@
-image=/home/kamidzu/.config/swaylock/dracula-wallpaper.svg
+daemonize
+show-failed-attempts
 color=6272A4
 color=ffffff
 font="Jetbrains Mono"
@@ -7,6 +8,7 @@ indicator-thickness=20
 line-color=282A36
 ring-color=BD93F9
 inside-color=282A36
+key-hl-color=50FA7B
 separator-color=00000000
 text-color=F8F8F2
 line-ver-color=BD93F9
@@ -21,3 +23,4 @@ text-clear-color=8BE9FD
 ring-clear-color=8BE9FD
 line-clear-color=8BE9FD
 line-wrong-color=282A36
+bs-hl-color=8BE9FD
