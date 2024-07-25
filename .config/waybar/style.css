@@ -25,6 +25,7 @@ window#waybar {
     margin-bottom: 10px;
     */
 }
+
 #workspaces button{
     color: 	#89b4fa;
     background: #09090F;
@@ -92,7 +93,6 @@ window#waybar {
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
 }
 
-
 #taskbar {
     background: #09090F;
     border: none;
@@ -110,7 +110,6 @@ window#waybar {
 
     margin-top: 10px;
 }
-
 
 #custom-spotify {
     color: 	#89b4fa;
